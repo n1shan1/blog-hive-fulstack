@@ -1,0 +1,17 @@
+{
+  "name": "blog-hive-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install-server": "cd blog-hive-backend && npm install",
+    "start-server": "cd blog-hive-backend && node app.js",
+    "install-client": "cd blog-hive-frontend && npm install",
+    "build-client": "cd blog-hive-frontend && npm run build",
+    "start-client": "cd blog-hive-frontend && npm run start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
