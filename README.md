@@ -29,10 +29,10 @@ Blog Hive is designed to create a vibrant community where readers and writers ca
 - **Delete Blog:** Authenticated users can delete their own blog posts.
 ## Images
 
-###![Home](blog-Hive-Images/Home.png)
-###![Single Blog](blog-Hive-Images/single-blog.png)
-###![New Blog](blog-Hive-Images/new-blog.png)
-###![About](blog-Hive-Images/About.png)
+![Home](blog-Hive-Images/Home.png)
+![Single Blog](blog-Hive-Images/single-blog.png)
+![New Blog](blog-Hive-Images/new-blog.png)
+![About](blog-Hive-Images/About.png)
 
 ## Installation
 
