@@ -8,7 +8,7 @@
 
 ## Replacement
 
-- **Replacement:** [New Repo]("https://github.com/n1shan1/blog-hive-fullstack")
+- **Replacement:** [New Repo](https://github.com/n1shan1/blog-hive-fullstack)
 
 ## Archive Status
 
